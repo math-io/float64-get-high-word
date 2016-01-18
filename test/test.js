@@ -28,7 +28,7 @@ tape( 'the function returns an integer', function test( t ) {
 	t.end();
 });
 
-tape( 'the function splits a floating-point number into a higher order word and a lower order word', function test( t ) {
+tape( 'the function extracts a higher order word from a floating-point number', function test( t ) {
 	var expected;
 	var values;
 	var high;
