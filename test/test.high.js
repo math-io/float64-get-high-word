@@ -25,7 +25,7 @@ tape( 'if little endian, the export equals 1', function test( t ) {
 
 tape( 'if big endian, the export equals 0', function test( t ) {
 	var HIGH = proxyquire( './../lib/high.js', {
-		'utils-is-little-endian': false
+		'utils-is-little-endian': 'beep' // a value other than `true`
 	});
 
 	t.equal( HIGH, 0, 'HIGH equals 0' );
