@@ -2,7 +2,7 @@ High Word
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][build-image]][build-url] [![Coverage Status][coverage-image]][coverage-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> Returns a 32-bit integer corresponding to the more significant 32 bits of a [double-precision floating-point number][ieee754].
+> Returns an unsigned 32-bit integer corresponding to the more significant 32 bits of a [double-precision floating-point number][ieee754].
 
 
 ## Installation

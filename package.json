@@ -47,7 +47,8 @@
     "significand",
     "mantissa",
     "exponent",
-    "fraction"
+    "fraction",
+    "ieee754"
   ],
   "bugs": {
     "url": "https://github.com/math-io/float64-get-high-word/issues"
