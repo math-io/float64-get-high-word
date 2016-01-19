@@ -1,6 +1,6 @@
 {
   "name": "math-float64-get-high-word",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns a 32-bit integer corresponding to the more significant 32 bits of a double-precision floating-point number.",
   "author": {
     "name": "Athan Reines",
